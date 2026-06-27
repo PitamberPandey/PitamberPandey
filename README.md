@@ -1,15 +1,51 @@
 # README.md 
 
 
+
+
 <h1 align="center">Hi 👋, I'm Pitamber Pandey</h1>
 
 <h3 align="center">
-🚀 Full Stack Java Developer | Spring Boot | React | Backend Engineer
+🚀 Backend Engineer | Full Stack Developer | Spring Boot | React | DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+Developer;Backend+Engineer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;DSA+%26+Problem+Solver;System+Design+Learner;Always+Building+Projects" />
 </p>
+
+---
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+- 🔥 Backend Engineer focused on scalable systems  
+- 💻 Full Stack Developer (Spring Boot + React)  
+- 🧠 Strong interest in DSA & Problem Solving  
+- ⚙️ Love building real-world projects  
+- 🎯 Goal: Top Tech Company Software Engineer  
+
+### 🧠 Current Focus
+- Data Structures & Algorithms (LeetCode)
+- System Design
+- Microservices & Backend Architecture
+- Real-world Full Stack Projects
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/yvUAZfyBWV?theme=dark&font=baloo&ext=contest" width="400"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
